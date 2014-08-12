@@ -92,7 +92,6 @@
                     </div>
                 </div>
                 <center>Buscar Todos los usuarios</center><br>
-                <div class="row">&nbsp;</div>
                 <div class="row">		
                     <div class="col-xs-2">
                         <button type="submit" class="btn btn-primary btn-block" id="buscaust">Consultar</button>
@@ -228,7 +227,6 @@
                     </div>
                 </div>
                 <center>Buscar Todos los prestamo de libros</center><br>
-                <div class="row">&nbsp;</div>
                 <div class="row">		
                     <div class="col-xs-2">
                         <button type="submit" class="btn btn-primary btn-block" id="buscaprt">Consultar</button>
