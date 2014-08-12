@@ -154,7 +154,6 @@
                     </div>
                 </div>
                 <center>Buscar Todos los Libros</center><br>
-                <div class="row">&nbsp;</div>
                 <div class="row">		
                     <div class="col-xs-2">
                         <button type="submit" class="btn btn-primary btn-block" id="buscalit">Consultar</button>
